@@ -49,3 +49,16 @@ Irsan Maulana Yusuf | BI Analyst
 
 ## Date
 July 2026
+
+```
+bank-muamalat-bi-analysis/
+├── README.md
+├── data/
+│   └── master_sales_data.csv
+├── notebooks/
+│   ├── 01_soal1_primary_key_validation.ipynb
+│   ├── 02_soal3_master_table_creation.ipynb
+├── docs/
+│   └── 05_business_recommendations.md
+└── .gitignore
+```
