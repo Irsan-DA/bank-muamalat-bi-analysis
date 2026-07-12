@@ -89,9 +89,10 @@ Irsan Maulana Yusuf | Business Intelligence Analyst
 
 ```
 sejahtera-sales-analysis/
-├── README.md
-├── master_sales_data.csv                            ← Main Data
-├── Revenue Overview & Category Performance.ipynb    ← Code (singular, not multiple)
-├── BUSINESS_INSIGHTS.docx                           ← Report lengkap
-└── .gitignore
+├── README.md                                      
+├── data/
+│   └── master_sales_data.csv                     
+├── Revenue Overview & Category Performance.ipynb 
+├── BUSINESS_INSIGHTS.docx                       
+└── .gitignore                                    
 ```
