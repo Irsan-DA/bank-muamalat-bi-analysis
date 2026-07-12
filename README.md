@@ -1,4 +1,4 @@
-# Sales Performance Analysis — PT Sejahtera Bersama
+# Sales Performance Analysis - PT Sejahtera Bersama
 
 **Business Intelligence Analysis | Data-Driven Revenue Insights**
 
@@ -16,7 +16,7 @@ Analysis of 2020-2021 sales transactions to identify revenue drivers, geographic
 
 ---
 
-## Dataset
+## Raw Dataset
 
 - **Source:** PT Sejahtera Bersama Sales Database
 - **Period:** 2020-2021
@@ -27,9 +27,9 @@ Analysis of 2020-2021 sales transactions to identify revenue drivers, geographic
 
 ## Key Insights
 
-1. **Revenue Concentration** — 69% of revenue from Robots + Drones
-2. **Geographic Mismatch** — Sacramento outperforms San Diego in revenue despite lower order volume
-3. **City-Specific Trends** — Philadelphia shows potential for Drone Services specialization
+1. **Revenue Concentration** - 69% of revenue from Robots + Drones
+2. **Geographic Mismatch** - Sacramento outperforms San Diego in revenue despite lower order volume
+3. **City-Specific Trends** - Philadelphia shows potential for Drone Services specialization
 
 ---
 
@@ -55,17 +55,19 @@ Investigate seasonal patterns & competitive advantages in high-performing catego
 | File | Description |
 |------|---|
 | `master_sales_data.csv` | Cleaned & transformed sales dataset (3,339 records) |
-| `Revenue Overview & Category Performance.ipynb` | Data cleaning, transformation, analysis code |
-| `Presentation Data Analyst` | Figma Link [Link Here](https://www.figma.com/proto/0YFTnsNhqhrkRGET2TYj2N/Presentation-Data-Analysis?node-id=1-39&p=f&t=iByaQGFz3k2nYupE-1&scaling=contain&content-scaling=fixed&page-id=0%3A1) |
+| `Code_Manipulation.ipynb` | Data cleaning, transformation, analysis code |
+| `Presentation_Analyst` | Figma Link [Link Here](https://www.figma.com/proto/0YFTnsNhqhrkRGET2TYj2N/Presentation-Data-Analysis?node-id=1-39&p=f&t=iByaQGFz3k2nYupE-1&scaling=contain&content-scaling=fixed&page-id=0%3A1) |
+| `Business_Insight_Report` | Analyst Report |
 | Dashboard Link | [Link Here](https://datastudio.google.com/reporting/cf5a7a64-7d35-48f5-823a-6b5ab8f3d11d) |
 
 ---
 
 ## Tools & Technologies
 
-- **Python** (Pandas, NumPy) — Data transformation
-- **Data Studio** — Interactive visualization
-- **Google Colab** — Analysis environment
+- **Python** (Pandas, NumPy) - Data transformation
+- **Data Studio** - Interactive visualization
+- **Google Colab** - Analysis environment
+- **Figma** - Presentation Maker
 
 ---
 
@@ -73,7 +75,7 @@ Investigate seasonal patterns & competitive advantages in high-performing catego
 
 1. **View Dashboard:** `Check Deliverables`
 2. **Review Data:** `master_sales_data.csv`
-3. **Check Code:** `Revenue Overview & Category Performance.ipynb`
+3. **Check Code:** `Code_Manipulation.ipynb`
 4. **Presentation:** `Check Figma Link`
 
 ---
@@ -92,7 +94,7 @@ sejahtera-sales-analysis/
 ├── README.md                                      
 ├── data/
 │   └── master_sales_data.csv                     
-├── Revenue Overview & Category Performance.ipynb 
-├── BUSINESS_INSIGHTS.docx                       
+├── Code_Manipulation.ipynb 
+├── Business_Insight_Report.docx                       
 └── .gitignore                                    
 ```
