@@ -57,7 +57,7 @@ Investigate seasonal patterns & competitive advantages in high-performing catego
 | `master_sales_data.csv` | Cleaned & transformed sales dataset (3,339 records) |
 | `analysis_notebook.ipynb` | Data cleaning, transformation, analysis code |
 | `BUSINESS_INSIGHTS.docx` | Full business recommendations report |
-| Dashboard Link | [Data Studio Interactive Dashboard](#) |
+| Dashboard Link | [Link Here](https://datastudio.google.com/reporting/cf5a7a64-7d35-48f5-823a-6b5ab8f3d11d) |
 
 ---
 
@@ -80,7 +80,7 @@ Investigate seasonal patterns & competitive advantages in high-performing catego
 
 ## Author
 
-[Your Name] | Business Intelligence Analyst
+Irsan Maulana Yusuf | Business Intelligence Analyst
 
 **Date:** July 2026
 
