@@ -85,14 +85,10 @@ Investigate seasonal patterns & competitive advantages in high-performing catego
 **Date:** July 2026
 
 ```
-bank-muamalat-bi-analysis/
+sejahtera-sales-analysis/
 ├── README.md
-├── data/
-│   └── master_sales_data.csv
-├── notebooks/
-│   ├── 01_soal1_primary_key_validation.ipynb
-│   ├── 02_soal3_master_table_creation.ipynb
-├── docs/
-│   └── 05_business_recommendations.md
+├── master_sales_data.csv          ← Data utama
+├── analysis_notebook.ipynb         ← Code (singular, not multiple)
+├── BUSINESS_INSIGHTS.docx          ← Report lengkap
 └── .gitignore
 ```
