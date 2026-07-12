@@ -55,7 +55,7 @@ Investigate seasonal patterns & competitive advantages in high-performing catego
 | File | Description |
 |------|---|
 | `master_sales_data.csv` | Cleaned & transformed sales dataset (3,339 records) |
-| `analysis_notebook.ipynb` | Data cleaning, transformation, analysis code |
+| `PT Sejahtera Bersama - Revenue Overview & Category Performance.ipynb` | Data cleaning, transformation, analysis code |
 | `Presentation Data Analyst` | Figma Link [Link Here](https://www.figma.com/proto/0YFTnsNhqhrkRGET2TYj2N/Presentation-Data-Analysis?node-id=1-39&p=f&t=iByaQGFz3k2nYupE-1&scaling=contain&content-scaling=fixed&page-id=0%3A1) |
 | Dashboard Link | [Link Here](https://datastudio.google.com/reporting/cf5a7a64-7d35-48f5-823a-6b5ab8f3d11d) |
 
