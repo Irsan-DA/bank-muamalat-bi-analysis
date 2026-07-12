@@ -1,54 +1,88 @@
-# Bank Muamalat - Sales Performance Analysis
+# Sales Performance Analysis — PT Sejahtera Bersama
 
-**Role:** BI Analyst | **Company:** PT Sejahtera Bersama
+**Business Intelligence Analysis | Data-Driven Revenue Insights**
 
-## Project Overview
-Analysis of sales transactions to identify revenue drivers, geographic trends, and actionable business recommendations for PT Sejahtera Bersama.
+---
+
+## Overview
+
+Analysis of 2020-2021 sales transactions to identify revenue drivers, geographic trends, and actionable strategies for revenue optimization. 
+
+**Key Findings:**
+- Total Revenue: **$1,754,751**
+- Top Performer: Robots (42% revenue share)
+- Geographic Insight: Sacramento = premium market, San Diego = volume market
+- Opportunity: Bundle strategy + city-level customization
+
+---
 
 ## Dataset
-- 4 source tables: Customers, Orders, Products, ProductCategory
-- Time period: 2020-2021
-- Total transactions: 3,339 orders across 50+ cities
+
+- **Source:** PT Sejahtera Bersama Sales Database
+- **Period:** 2020-2021
+- **Scope:** 3,339 orders across 50+ cities
+- **Tables:** Customers, Orders, Products, ProductCategory
+
+---
+
+## Key Insights
+
+1. **Revenue Concentration** — 69% of revenue from Robots + Drones
+2. **Geographic Mismatch** — Sacramento outperforms San Diego in revenue despite lower order volume
+3. **City-Specific Trends** — Philadelphia shows potential for Drone Services specialization
+
+---
+
+## Recommendations
+
+### 1. Product Strategy: Bundle & Upsell
+Bundle premium products (Robots/Drones) with Training Videos/eBooks → increase average order value
+
+### 2. City-Level Customization
+- **Premium Markets (Sacramento):** Focus on Robots as flagship
+- **Volume Markets (Washington/Houston):** Drive entry-level products (eBooks, Blueprints)
+- **Niche Markets (Philadelphia):** Test Drone Services specialization
+
+### 3. Product Mix Optimization
+Investigate seasonal patterns & competitive advantages in high-performing categories
+
+**Expected Impact:** 15-20% increase in average order value + new revenue streams from secondary cities
+
+---
 
 ## Deliverables
 
-### Soal 1: Primary Key Identification
-Identified primary keys for all 4 tables (CustomerID, OrderID, ProdNumber, CategoryID)
+| File | Description |
+|------|---|
+| `master_sales_data.csv` | Cleaned & transformed sales dataset (3,339 records) |
+| `analysis_notebook.ipynb` | Data cleaning, transformation, analysis code |
+| `BUSINESS_INSIGHTS.docx` | Full business recommendations report |
+| Dashboard Link | [Data Studio Interactive Dashboard](#) |
 
-### Soal 2: Table Relationships
-Documented relationships: Customers ← Orders → Products → ProductCategory
+---
 
-### Soal 3: Master Data Table
-Created unified sales dataset with 8 key columns via SQL-style joins in Python/Pandas
+## Tools & Technologies
 
-### Soal 4: Data Visualization
-Interactive dashboard in Data Studio:
-- Total revenue: $1,754,751
-- Category performance analysis
-- Geographic distribution (50+ cities)
+- **Python** (Pandas, NumPy) — Data transformation
+- **Data Studio** — Interactive visualization
+- **Google Colab** — Analysis environment
 
-### Soal 5: Business Recommendations
-Strategic insights and recommendations for revenue optimization
+---
 
-## Tools Used
-- Python (Pandas, NumPy)
-- Data Studio (Looker)
-- Google Colab
+## How to Use
 
-## Files
-- `notebooks/01_soal1_*.ipynb` — Primary key validation
-- `notebooks/02_soal3_*.ipynb` — Master table creation & transformation
-- `data/master_sales_data.csv` — Final analysis dataset
-- `docs/05_business_*.md` — Recommendations report
+1. **View Dashboard:** [Link to Data Studio]
+2. **Review Data:** `master_sales_data.csv`
+3. **Check Code:** `analysis_notebook.ipynb`
+4. **Read Report:** `BUSINESS_INSIGHTS.docx`
 
-## Dashboard
-[Link to Data)
+---
 
 ## Author
-Irsan Maulana Yusuf | BI Analyst
 
-## Date
-July 2026
+[Your Name] | Business Intelligence Analyst
+
+**Date:** July 2026
 
 ```
 bank-muamalat-bi-analysis/
