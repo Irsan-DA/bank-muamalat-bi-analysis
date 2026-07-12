@@ -84,11 +84,14 @@ Irsan Maulana Yusuf | Business Intelligence Analyst
 
 **Date:** July 2026
 
+---
+## Repo Structure
+
 ```
 sejahtera-sales-analysis/
 ├── README.md
-├── master_sales_data.csv          ← Data utama
-├── analysis_notebook.ipynb         ← Code (singular, not multiple)
-├── BUSINESS_INSIGHTS.docx          ← Report lengkap
+├── master_sales_data.csv                            ← Main Data
+├── Revenue Overview & Category Performance.ipynb    ← Code (singular, not multiple)
+├── BUSINESS_INSIGHTS.docx                           ← Report lengkap
 └── .gitignore
 ```
