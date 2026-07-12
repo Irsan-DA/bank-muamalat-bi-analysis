@@ -1,4 +1,4 @@
-# Bank Muamalat — Sales Performance Analysis
+# Bank Muamalat - Sales Performance Analysis
 
 **Role:** BI Analyst | **Company:** PT Sejahtera Bersama
 
