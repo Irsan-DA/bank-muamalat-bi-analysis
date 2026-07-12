@@ -73,8 +73,8 @@ Investigate seasonal patterns & competitive advantages in high-performing catego
 
 1. **View Dashboard:** [Link to Data Studio]
 2. **Review Data:** `master_sales_data.csv`
-3. **Check Code:** `analysis_notebook.ipynb`
-4. **Read Report:** `BUSINESS_INSIGHTS.docx`
+3. **Check Code:** `PT Sejahtera Bersama - Revenue Overview & Category Performance.ipynb`
+4. **Presentation:** `Figma Link`
 
 ---
 
