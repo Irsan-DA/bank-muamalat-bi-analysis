@@ -1,6 +1,7 @@
 # Sales Performance Analysis - PT Sejahtera Bersama
 
 **Business Intelligence Analysis | Data-Driven Revenue Insights**
+
 *Note: This is a fictional company used for educational analysis purposes*
 
 ---
